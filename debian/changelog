@@ -1,0 +1,11 @@
+libvecpf (1.0.0-1.1) unstable; urgency=medium
+
+  * Release update
+
+ -- Thierry Fauck <tfauck@free.fr>  Mon, 30 Nov 2015 07:07:01 -0500
+
+libvecpf (1.0.0-1) RELEASED; urgency=medium
+
+  * Initial release.
+
+ -- Breno Leitao <brenohl@br.ibm.com>  Mon, 23 Mar 2015 10:44:12 -0400
